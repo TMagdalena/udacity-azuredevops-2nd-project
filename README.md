@@ -3,4 +3,4 @@ This is a repo for second project in the udacity nanodegree course for azure dev
 
 ## This was edited in Cloud Shell
 
-![Screenshot](lint and test in GIT UI.JPG)
+![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/lint%20and%20test%20in%20GIT%20UI.JPG?raw=true)
