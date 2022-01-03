@@ -14,7 +14,18 @@ This is second project for Udacity Azure DevOps course: Building a CI/CD Pipelin
 Architectural Diagram
 [a link](https://classroom.udacity.com/nanodegrees/nd082/parts/42614ad1-72a7-4cdf-8119-cbfacad88d57/modules/53c5d9eb-3795-4066-af43-68379c2c2650/lessons/f5d7c13a-0cea-4cc3-981e-3d0aa9d1b73d/concepts/c84a9d8b-89b0-4668-a014-f72ef73fcc0f)
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+Steps:
+1.  Launch an Azure Cloud Shell environment, create ssh-key and upload it to your GitHub account.
+2.  Create project scaffolding from files provided in this repository.
+3.  Make local test
+4.  Clone project to Cloud Shell
+5.  Configure GitHub Actions
+6.  Create continous delivery in Azure
+7.  Enable continous deployment iz Azure Pipelines
+8.  Enable GitHub actions to worth with Azure Piplens
+9.  Make a final test and stream logs
+
+For more info about each step, take a look at the screenshots below and the demo section.
 
 * Project running on Azure App Service
 
