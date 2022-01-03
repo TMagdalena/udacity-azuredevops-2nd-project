@@ -1,6 +1,6 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+This is second project for Udacity Azure DevOps course: Building a CI/CD Pipeline. 
 
 ## Project Plan
 
