@@ -7,6 +7,7 @@
 
 * A link to a Trello board for the project
 * A link to a spreadsheet that includes the original and final project plan>
+* [a relative link](project-management-udacity-2nd.xlsx)
 
 ## Instructions
 
