@@ -28,41 +28,40 @@ Steps:
 For more info about each step, take a look at the screenshots below and the demo section.
 
 * Project running on Azure App Service
-* [a relative link](create an app service and deploy app.jpg)
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/create%20an%20app%20service%20and%20deploy%20app.JPG)
 
 * Project cloned into Azure Cloud Shell
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/project%20cloned%20into%20ACS.JPG)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/local%20test%20passed.JPG)
 
 * Output of a test run
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/lint%20and%20test%20in%20GIT%20UI.JPG?raw=true)
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+* Successful deploy of the project in Azure Pipelines.
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/successful%20deploy%20of%20the%20project%20in%20azure%20pipelines.JPG)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/running%20azure%20app%20service%20from%20pipelines.JPG)
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
-
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
+* Successful prediction from deployed flask app in Azure Cloud Shell.
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/perform%20prediction.JPG)
 
 * Output of streamed log files from deployed application
-
-> 
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs1.JPG)
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs2.JPG)
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs3.JPG)
+* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs4.JPG)
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+* Do not push on main branch
+* Push on separate branches
+* Create PRs
+* Start pipeline only on PRs
 
 ## Demo 
 
 <TODO: Add link Screencast on YouTube>
 
-
-
-## This was edited in Cloud Shell
-
-![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/lint%20and%20test%20in%20GIT%20UI.JPG?raw=true)
