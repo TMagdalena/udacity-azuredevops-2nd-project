@@ -5,9 +5,9 @@ This is second project for Udacity Azure DevOps course: Building a CI/CD Pipelin
 ## Project Plan
 
 * A link to a Trello board for the project
-* [a link](https://trello.com/b/ChL89FXI/udacity-2nd)
+ [a link](https://trello.com/b/ChL89FXI/udacity-2nd)
 * A link to a spreadsheet that includes the original and final project plan>
-* [a relative link](project-management-udacity-2nd.xlsx)
+ [a relative link](project-management-udacity-2nd.xlsx)
 
 ## Instructions
 
@@ -28,31 +28,31 @@ Steps:
 For more info about each step, take a look at the screenshots below and the demo section.
 
 * Project running on Azure App Service
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/create%20an%20app%20service%20and%20deploy%20app.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/create%20an%20app%20service%20and%20deploy%20app.JPG)
 
 * Project cloned into Azure Cloud Shell
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/project%20cloned%20into%20ACS.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/project%20cloned%20into%20ACS.JPG)
 
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/local%20test%20passed.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/local%20test%20passed.JPG)
 
 * Output of a test run
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/lint%20and%20test%20in%20GIT%20UI.JPG?raw=true)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/lint%20and%20test%20in%20GIT%20UI.JPG?raw=true)
 
 * Successful deploy of the project in Azure Pipelines.
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/successful%20deploy%20of%20the%20project%20in%20azure%20pipelines.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/successful%20deploy%20of%20the%20project%20in%20azure%20pipelines.JPG)
 
 * Running Azure App Service from Azure Pipelines automatic deployment
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/running%20azure%20app%20service%20from%20pipelines.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/running%20azure%20app%20service%20from%20pipelines.JPG)
 
 * Successful prediction from deployed flask app in Azure Cloud Shell.
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/perform%20prediction.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/perform%20prediction.JPG)
 
 * Output of streamed log files from deployed application
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs1.JPG)
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs2.JPG)
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs3.JPG)
-* ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs4.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs1.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs2.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs3.JPG)
+ ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs4.JPG)
 
 ## Enhancements
 
