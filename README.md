@@ -28,6 +28,7 @@ Steps:
 For more info about each step, take a look at the screenshots below and the demo section.
 
 * Project running on Azure App Service
+* [a relative link](create an app service and deploy app.jpg)
 
 * Project cloned into Azure Cloud Shell
 
