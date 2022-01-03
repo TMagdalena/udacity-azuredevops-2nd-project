@@ -5,14 +5,14 @@ This is second project for Udacity Azure DevOps course: Building a CI/CD Pipelin
 ## Project Plan
 
 * A link to a Trello board for the project
- [a link](https://trello.com/b/ChL89FXI/udacity-2nd)
-* A link to a spreadsheet that includes the original and final project plan>
- [a relative link](project-management-udacity-2nd.xlsx)
+ [link](https://trello.com/b/ChL89FXI/udacity-2nd)
+* A link to a spreadsheet that includes the original and final project plan
+ [link](project-management-udacity-2nd.xlsx)
 
 ## Instructions
 
 Architectural Diagram
-[a link](https://classroom.udacity.com/nanodegrees/nd082/parts/42614ad1-72a7-4cdf-8119-cbfacad88d57/modules/53c5d9eb-3795-4066-af43-68379c2c2650/lessons/f5d7c13a-0cea-4cc3-981e-3d0aa9d1b73d/concepts/c84a9d8b-89b0-4668-a014-f72ef73fcc0f)
+[link](https://classroom.udacity.com/nanodegrees/nd082/parts/42614ad1-72a7-4cdf-8119-cbfacad88d57/modules/53c5d9eb-3795-4066-af43-68379c2c2650/lessons/f5d7c13a-0cea-4cc3-981e-3d0aa9d1b73d/concepts/c84a9d8b-89b0-4668-a014-f72ef73fcc0f)
 
 Steps:
 1.  Launch an Azure Cloud Shell environment, create ssh-key and upload it to your GitHub account.
