@@ -3,9 +3,9 @@
 <TODO: complete this with an overview of your project>
 
 ## Project Plan
-<TODO: Project Plan
 
 * A link to a Trello board for the project
+* [a link](https://trello.com/b/ChL89FXI/udacity-2nd)
 * A link to a spreadsheet that includes the original and final project plan>
 * [a relative link](project-management-udacity-2nd.xlsx)
 
