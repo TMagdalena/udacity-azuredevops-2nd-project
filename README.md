@@ -65,4 +65,3 @@ For more info about each step, take a look at the screenshots below and the demo
 
 [YouTube video](https://youtu.be/ChvNJJIAu3o)
 [Better quality video](https://kapwi.ng/c/9ZSOYy1TPu)
-
