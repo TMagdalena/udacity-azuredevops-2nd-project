@@ -1,6 +1,6 @@
-from locust import HttpUser, TaskSet, task
+from locust import HttpUser, task
 
-class MyTaskSet(TaskSet):
+class MyTaskSet(HttpUser):
   @task
   def index(self):
     self.client.get("/posts")
@@ -28,7 +28,3 @@ class MyTaskSet(TaskSet):
             "0":4.98
         }
         })
-
-class MyLocust(HttpUser):
-  task_set = MyTaskSet
-  
