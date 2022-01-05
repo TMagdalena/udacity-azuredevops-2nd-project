@@ -63,7 +63,7 @@ For more info about each step, take a look at the screenshots below and the demo
 
 ## Demo 
 
-[YouTube video](-)
+[YouTube video](https://youtu.be/F-6iMsZTBRA)
 [Better quality video](https://kapwi.ng/c/YbUUChToAz)
 
 This is edited in Azure CLI.
