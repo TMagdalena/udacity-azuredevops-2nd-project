@@ -1,5 +1,7 @@
 # Overview
 
+![example workflow](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/.github/workflows/pythonapp.yml/badge.svg)
+
 This is second project for Udacity Azure DevOps course: Building a CI/CD Pipeline. 
 
 ## Project Plan
