@@ -7,7 +7,7 @@ class MyTaskSet(HttpUser):
     
   @task
   def users(self):
-    self.client.post("/posts", json={
+    self.client.post("/predict", json={
     "CHAS":{
         "0":0
     },
