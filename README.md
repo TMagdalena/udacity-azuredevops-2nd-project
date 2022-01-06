@@ -57,7 +57,7 @@ For more info about each step, take a look at the screenshots below and the demo
  ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs4.JPG)
 
 [Locust report](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/locust-report.pdf)
-![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/locust-success.jpg)
+![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/locust-screenshot.jpg)
 
 ## Enhancements
 
