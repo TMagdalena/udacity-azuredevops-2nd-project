@@ -13,8 +13,8 @@ This is second project for Udacity Azure DevOps course: Building a CI/CD Pipelin
 
 ## Instructions
 
-Architectural Diagram
-[link](https://classroom.udacity.com/nanodegrees/nd082/parts/42614ad1-72a7-4cdf-8119-cbfacad88d57/modules/53c5d9eb-3795-4066-af43-68379c2c2650/lessons/f5d7c13a-0cea-4cc3-981e-3d0aa9d1b73d/concepts/c84a9d8b-89b0-4668-a014-f72ef73fcc0f)
+![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/diagram-2nd.jpg)
+###### *Screenshot taken from Udacity page in Cloud DevOps using Microsoft Azure course*
 
 Steps:
 1.  Launch an Azure Cloud Shell environment, create ssh-key and upload it to your GitHub account.
@@ -55,6 +55,9 @@ For more info about each step, take a look at the screenshots below and the demo
  ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs2.JPG)
  ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs3.JPG)
  ![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/logs4.JPG)
+
+[Locust report](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/locust-report.pdf)
+![Screenshot](https://github.com/TMagdalena/udacity-azuredevops-2nd-project/blob/main/locust-success.jpg)
 
 ## Enhancements
 
